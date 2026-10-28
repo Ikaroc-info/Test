@@ -1,0 +1,6 @@
+.env
+.cache*
+browser.json
+oauth.json
+introuvables*.txt
+__pycache__/
