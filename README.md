@@ -74,3 +74,10 @@ python transfer.py --all --privacy PUBLIC          # PRIVATE (défaut), UNLISTED
 - La correspondance est automatique : quelques titres peuvent être remplacés par une autre version
   (live, remix…). Vérifiez le fichier `introuvables_*.txt` et ajoutez les manquants à la main.
 - Les fichiers locaux et les podcasts Spotify sont ignorés.
+
+---
+
+## Autre projet : Ligne de Front (jeu)
+
+Un jeu de tactique d'escouade au tour par tour jouable dans le navigateur :
+voir [`ligne-de-front/`](ligne-de-front/README.md).
